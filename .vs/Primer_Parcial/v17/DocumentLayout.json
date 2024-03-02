@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BYRON !\\Desktop\\PROGRA 1\\Primer_Parcial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17D6A333-5F18-40E6-9CBB-7CD07600AEA8}|PROGRAMA#4\\PROGRAMA#4.csproj|c:\\users\\byron !\\desktop\\progra 1\\primer_parcial\\programa#4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D6A333-5F18-40E6-9CBB-7CD07600AEA8}|PROGRAMA#4\\PROGRAMA#4.csproj|solutionrelative:programa#4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3EA56A-F819-42E8-AC59-E6DA831FC3ED}|PROGRAMA#3\\PROGRAMA#3.csproj|c:\\users\\byron !\\desktop\\progra 1\\primer_parcial\\programa#3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3EA56A-F819-42E8-AC59-E6DA831FC3ED}|PROGRAMA#3\\PROGRAMA#3.csproj|solutionrelative:programa#3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027060F3-23B1-4970-A2AE-B186C71A7FF7}|PROGRAMA#2\\PROGRAMA#2.csproj|c:\\users\\byron !\\desktop\\progra 1\\primer_parcial\\programa#2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027060F3-23B1-4970-A2AE-B186C71A7FF7}|PROGRAMA#2\\PROGRAMA#2.csproj|solutionrelative:programa#2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DA6E8F-6410-452B-909F-C8F93CAF1305}|PROGRMA#1\\PROGRMA#1.csproj|c:\\users\\byron !\\desktop\\progra 1\\primer_parcial\\progrma#1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DA6E8F-6410-452B-909F-C8F93CAF1305}|PROGRMA#1\\PROGRMA#1.csproj|solutionrelative:progrma#1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79910FF8-05B1-4560-B80F-F112A36CCA8B}|OPERACIONES\\OPERACIONES.csproj|c:\\users\\byron !\\desktop\\progra 1\\primer_parcial\\operaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79910FF8-05B1-4560-B80F-F112A36CCA8B}|OPERACIONES\\OPERACIONES.csproj|solutionrelative:operaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{506E34A5-BFDD-450C-B638-A2111D533ED4}|EJEMPLOS.csproj|c:\\users\\byron !\\desktop\\progra 1\\primer_parcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{506E34A5-BFDD-450C-B638-A2111D533ED4}|EJEMPLOS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BYRON !\\Desktop\\PROGRA 1\\Primer_Parcial\\OPERACIONES\\Program.cs",
+              "RelativeDocumentMoniker": "OPERACIONES\\Program.cs",
+              "ToolTip": "C:\\Users\\BYRON !\\Desktop\\PROGRA 1\\Primer_Parcial\\OPERACIONES\\Program.cs",
+              "RelativeToolTip": "OPERACIONES\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T01:43:14.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BYRON !\\Desktop\\PROGRA 1\\Primer_Parcial\\PROGRAMA#4\\Program.cs",
+              "RelativeDocumentMoniker": "PROGRAMA#4\\Program.cs",
+              "ToolTip": "C:\\Users\\BYRON !\\Desktop\\PROGRA 1\\Primer_Parcial\\PROGRAMA#4\\Program.cs",
+              "RelativeToolTip": "PROGRAMA#4\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T01:37:30.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BYRON !\\Desktop\\PROGRA 1\\Primer_Parcial\\PROGRAMA#3\\Program.cs",
+              "RelativeDocumentMoniker": "PROGRAMA#3\\Program.cs",
+              "ToolTip": "C:\\Users\\BYRON !\\Desktop\\PROGRA 1\\Primer_Parcial\\PROGRAMA#3\\Program.cs",
+              "RelativeToolTip": "PROGRAMA#3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T01:36:20.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BYRON !\\Desktop\\PROGRA 1\\Primer_Parcial\\PROGRAMA#2\\Program.cs",
+              "RelativeDocumentMoniker": "PROGRAMA#2\\Program.cs",
+              "ToolTip": "C:\\Users\\BYRON !\\Desktop\\PROGRA 1\\Primer_Parcial\\PROGRAMA#2\\Program.cs",
+              "RelativeToolTip": "PROGRAMA#2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T01:35:00.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BYRON !\\Desktop\\PROGRA 1\\Primer_Parcial\\PROGRMA#1\\Program.cs",
+              "RelativeDocumentMoniker": "PROGRMA#1\\Program.cs",
+              "ToolTip": "C:\\Users\\BYRON !\\Desktop\\PROGRA 1\\Primer_Parcial\\PROGRMA#1\\Program.cs",
+              "RelativeToolTip": "PROGRMA#1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T01:33:36.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BYRON !\\Desktop\\PROGRA 1\\Primer_Parcial\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\BYRON !\\Desktop\\PROGRA 1\\Primer_Parcial\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T04:28:36.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

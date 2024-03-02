@@ -1,0 +1,14 @@
+C:\Users\BYRON !\Desktop\PROGRA 1\Primer_Parcial\bin\Debug\net8.0\EJEMPLOS.exe
+C:\Users\BYRON !\Desktop\PROGRA 1\Primer_Parcial\bin\Debug\net8.0\EJEMPLOS.deps.json
+C:\Users\BYRON !\Desktop\PROGRA 1\Primer_Parcial\bin\Debug\net8.0\EJEMPLOS.runtimeconfig.json
+C:\Users\BYRON !\Desktop\PROGRA 1\Primer_Parcial\bin\Debug\net8.0\EJEMPLOS.dll
+C:\Users\BYRON !\Desktop\PROGRA 1\Primer_Parcial\bin\Debug\net8.0\EJEMPLOS.pdb
+C:\Users\BYRON !\Desktop\PROGRA 1\Primer_Parcial\obj\Debug\net8.0\EJEMPLOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BYRON !\Desktop\PROGRA 1\Primer_Parcial\obj\Debug\net8.0\EJEMPLOS.AssemblyInfoInputs.cache
+C:\Users\BYRON !\Desktop\PROGRA 1\Primer_Parcial\obj\Debug\net8.0\EJEMPLOS.AssemblyInfo.cs
+C:\Users\BYRON !\Desktop\PROGRA 1\Primer_Parcial\obj\Debug\net8.0\EJEMPLOS.csproj.CoreCompileInputs.cache
+C:\Users\BYRON !\Desktop\PROGRA 1\Primer_Parcial\obj\Debug\net8.0\EJEMPLOS.dll
+C:\Users\BYRON !\Desktop\PROGRA 1\Primer_Parcial\obj\Debug\net8.0\refint\EJEMPLOS.dll
+C:\Users\BYRON !\Desktop\PROGRA 1\Primer_Parcial\obj\Debug\net8.0\EJEMPLOS.pdb
+C:\Users\BYRON !\Desktop\PROGRA 1\Primer_Parcial\obj\Debug\net8.0\EJEMPLOS.genruntimeconfig.cache
+C:\Users\BYRON !\Desktop\PROGRA 1\Primer_Parcial\obj\Debug\net8.0\ref\EJEMPLOS.dll

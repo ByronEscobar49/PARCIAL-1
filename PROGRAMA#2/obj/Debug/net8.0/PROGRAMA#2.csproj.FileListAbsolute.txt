@@ -1,0 +1,14 @@
+C:\Users\BYRON !\Desktop\PROGRA 1\Primer_Parcial\PROGRAMA#2\bin\Debug\net8.0\PROGRAMA#2.exe
+C:\Users\BYRON !\Desktop\PROGRA 1\Primer_Parcial\PROGRAMA#2\bin\Debug\net8.0\PROGRAMA#2.deps.json
+C:\Users\BYRON !\Desktop\PROGRA 1\Primer_Parcial\PROGRAMA#2\bin\Debug\net8.0\PROGRAMA#2.runtimeconfig.json
+C:\Users\BYRON !\Desktop\PROGRA 1\Primer_Parcial\PROGRAMA#2\bin\Debug\net8.0\PROGRAMA#2.dll
+C:\Users\BYRON !\Desktop\PROGRA 1\Primer_Parcial\PROGRAMA#2\bin\Debug\net8.0\PROGRAMA#2.pdb
+C:\Users\BYRON !\Desktop\PROGRA 1\Primer_Parcial\PROGRAMA#2\obj\Debug\net8.0\PROGRAMA#2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BYRON !\Desktop\PROGRA 1\Primer_Parcial\PROGRAMA#2\obj\Debug\net8.0\PROGRAMA#2.AssemblyInfoInputs.cache
+C:\Users\BYRON !\Desktop\PROGRA 1\Primer_Parcial\PROGRAMA#2\obj\Debug\net8.0\PROGRAMA#2.AssemblyInfo.cs
+C:\Users\BYRON !\Desktop\PROGRA 1\Primer_Parcial\PROGRAMA#2\obj\Debug\net8.0\PROGRAMA#2.csproj.CoreCompileInputs.cache
+C:\Users\BYRON !\Desktop\PROGRA 1\Primer_Parcial\PROGRAMA#2\obj\Debug\net8.0\PROGRAMA#2.dll
+C:\Users\BYRON !\Desktop\PROGRA 1\Primer_Parcial\PROGRAMA#2\obj\Debug\net8.0\refint\PROGRAMA#2.dll
+C:\Users\BYRON !\Desktop\PROGRA 1\Primer_Parcial\PROGRAMA#2\obj\Debug\net8.0\PROGRAMA#2.pdb
+C:\Users\BYRON !\Desktop\PROGRA 1\Primer_Parcial\PROGRAMA#2\obj\Debug\net8.0\PROGRAMA#2.genruntimeconfig.cache
+C:\Users\BYRON !\Desktop\PROGRA 1\Primer_Parcial\PROGRAMA#2\obj\Debug\net8.0\ref\PROGRAMA#2.dll
